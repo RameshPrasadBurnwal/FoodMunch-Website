@@ -1,0 +1,287 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.food-munch-container{
+    background-color:transparent;
+    height:100px;
+    width:100px;
+    border:2px solid aqua;
+    border-radius:50px;
+    text-align:center;
+    padding-top:15px;
+}
+.food-munch-logo{
+    width:50px;
+    height:50px;
+}
+#navItem1{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#navItem2{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#navItem3{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#navItem4{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#navItem5{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#navItem6{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#navItem7{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+/*---Banner Section---*/
+.banner-section-bg-container{
+    background-image:url("https://img.freepik.com/premium-photo/summer-bbq-food-corner-border-with-hot-dog-hamburger-buffet-top-down-view-dark-slate_660230-125456.jpg?w=1060");
+    background-size:cover;
+    height:100vh;
+}
+.banner-section-card{
+    text-align:center;
+}
+.banner-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:400;
+    font-style:italic;
+    color:white;
+}
+.banner-caption{
+    font-family:"Roboto";
+    font-style:italic;
+    font-weight:300;
+    color:white;
+    font-size:30px;
+}
+.button{
+    width:200px;
+    height:70px;
+    border:2px solid yellow;
+    border-radius:10px;
+    color:white;
+    font-size:20px;
+    font-style:italic;
+    font-weight:bold;
+}
+.view-button{
+    background-color:blueviolet;
+}
+.order-button{
+    background-color:transparent;
+}
+/*--Why Choose Us Section--*/
+.wcu-section{
+    background-color:#f9fbfe;
+}
+
+.wcu-section-heading{
+    color:#183b56;
+    font-family:"Roboto";
+    font-style:italic;
+    font-size:27px;
+    font-weight:700;
+}
+.wcu-section-description{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style:italic;
+}
+.wcu-card{
+    background-color:aqua;
+    border:2px solid blueviolet;
+    border-radius:10px;
+    text-align:center;
+}
+.wcu-card-image{
+    width:80px;
+    height:80px;
+}
+.wcu-card-title{
+    font-family:"Roboto";
+    font-style:"italic";
+    color:#323f4b;
+    font-size:22px;
+    font-weight:600;
+}
+.wcu-card-description{
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.offer{
+    background-color:yellow;
+    color:red;
+    font-weight:bolder;
+}
+/*------Explore Menu Section------*/
+.explore-menu-section{
+    background-color:bisque;
+}
+.menu-section-heading{
+    font-family:"Roboto";
+    font-size:30px;
+    color:#183b56;
+    font-weight:700;
+    font-style:italic;
+}
+.menu-item-card{
+    background-color:aquamarine;
+    border-radius:20px;
+    border:2px solid blueviolet;
+    padding:20px;
+}
+.menu-item-image{
+    border-radius:20px;
+    border-width:none;
+}
+.menu-card-title{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-size:18px;
+    font-weight:500;
+    margin-top:25px;
+
+}
+.menu-item-link{
+    color:hwb(240 1% 5%);
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:500;
+}
+/*----------------Healthy Food Section--------------------*/
+.healthy-food-section{
+    background-color:violet;
+}
+
+.healthy-food-section-img{
+    width:290px; 
+    height:290px;
+    border-radius:50px;
+}
+.healthy-food-section-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.healthy-food-section-description{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.custom-button{
+    color:white;
+    background-color:#d0b200;
+    width:130px;
+    height:45px;
+    border-width:0;
+    border-radius:8px;
+    margin-right:10px;
+}
+/*---------------Delivery and Payment Section------------------------*/
+.delivery-payment-section{
+    background-color:aqua;
+}
+.delivery-and-payment-section-img{
+    width:270px;
+}
+.delivery-and-payment-section-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.delivery-and-payment-section-description{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+/*-----------Thanking customer section--------------------------*/
+.thinking-customer-section{
+    background-image:radial-gradient(yellow,red,violet);
+}
+.thanking-customers-section-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.thanking-customers-section-description{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.thanking-customers-section-img{
+    width:270px;
+    margin-bottom:20px;
+}
+/*---------------Follow Us Section----------------------------*/
+.follow-us-section{
+    background-color:tomato;
+}
+.follow-us-section-heading{
+    font-family:"Roboto";
+    text-align:center;
+    color:#183b56;
+    font-size:28px;
+    font-weight:700;
+}
+.follow-us-icon-container{
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
+/*---------------------------Footer Section--------------------------------*/
+.footer-section{
+    background-color:#5a7184;
+}
+.footer-section-mail-id{
+    font-family:"Roboto";
+    font-style:italic;
+    font-size:40px;
+    font-weight:bolder;
+    color:white;
+}
+.footer-section-address{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:300;
+    color:white;
+    font-style:italic;
+}
